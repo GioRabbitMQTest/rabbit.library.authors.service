@@ -11,7 +11,19 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{4621FE46-C
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infraestructure", "Infraestructure", "{5B7D80D0-2940-4107-8D89-89B6FCC81AAC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rabbit.library.authors.domain", "Core\rabbit.library.authors.domain\rabbit.library.authors.domain.csproj", "{9F6A81E7-7A02-4866-B707-0C43480AD0A0}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F6A81E7-7A02-4866-B707-0C43480AD0A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F6A81E7-7A02-4866-B707-0C43480AD0A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F6A81E7-7A02-4866-B707-0C43480AD0A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F6A81E7-7A02-4866-B707-0C43480AD0A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
@@ -19,6 +31,7 @@ Global
 		{5EA4767F-30DC-4335-A642-A8F600208839} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{4621FE46-CAA1-4CE5-8475-B3CAE1B4A134} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{5B7D80D0-2940-4107-8D89-89B6FCC81AAC} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{9F6A81E7-7A02-4866-B707-0C43480AD0A0} = {4621FE46-CAA1-4CE5-8475-B3CAE1B4A134}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4F926C4D-6ED9-4C24-A6FA-4C2E0B268220}
