@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Giovany\\Documents\\LEARNING\\PRACTICES\\rabbit\\rabbit.library.authors.service\\src\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C2B9E6B0-9132-449B-8E79-D4A5C213F73C}|Infraestructure\\rabbit.library.authors.infraestrucure\\rabbit.library.authors.infraestrucure.csproj|c:\\users\\giovany\\documents\\learning\\practices\\rabbit\\rabbit.library.authors.service\\src\\infraestructure\\rabbit.library.authors.infraestrucure\\authordbcontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2B9E6B0-9132-449B-8E79-D4A5C213F73C}|Infraestructure\\rabbit.library.authors.infraestrucure\\rabbit.library.authors.infraestrucure.csproj|solutionrelative:infraestructure\\rabbit.library.authors.infraestrucure\\authordbcontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D316E614-DAE8-4B7F-A7A9-2E6046C8DBF6}|Api\\rabbit.library.authors.api\\rabbit.library.authors.api.csproj|c:\\users\\giovany\\documents\\learning\\practices\\rabbit\\rabbit.library.authors.service\\src\\api\\rabbit.library.authors.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D316E614-DAE8-4B7F-A7A9-2E6046C8DBF6}|Api\\rabbit.library.authors.api\\rabbit.library.authors.api.csproj|solutionrelative:api\\rabbit.library.authors.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B9E6B0-9132-449B-8E79-D4A5C213F73C}|Infraestructure\\rabbit.library.authors.infraestrucure\\rabbit.library.authors.infraestrucure.csproj|c:\\users\\giovany\\documents\\learning\\practices\\rabbit\\rabbit.library.authors.service\\src\\infraestructure\\rabbit.library.authors.infraestrucure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B9E6B0-9132-449B-8E79-D4A5C213F73C}|Infraestructure\\rabbit.library.authors.infraestrucure\\rabbit.library.authors.infraestrucure.csproj|solutionrelative:infraestructure\\rabbit.library.authors.infraestrucure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B9E6B0-9132-449B-8E79-D4A5C213F73C}|Infraestructure\\rabbit.library.authors.infraestrucure\\rabbit.library.authors.infraestrucure.csproj|c:\\users\\giovany\\documents\\learning\\practices\\rabbit\\rabbit.library.authors.service\\src\\infraestructure\\rabbit.library.authors.infraestrucure\\dbcontext\\authordbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B9E6B0-9132-449B-8E79-D4A5C213F73C}|Infraestructure\\rabbit.library.authors.infraestrucure\\rabbit.library.authors.infraestrucure.csproj|solutionrelative:infraestructure\\rabbit.library.authors.infraestrucure\\dbcontext\\authordbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C2B9E6B0-9132-449B-8E79-D4A5C213F73C}|Infraestructure\\rabbit.library.authors.infraestrucure\\rabbit.library.authors.infraestrucure.csproj|c:\\users\\giovany\\documents\\learning\\practices\\rabbit\\rabbit.library.authors.service\\src\\infraestructure\\rabbit.library.authors.infraestrucure\\rabbit.library.authors.infraestrucure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{C2B9E6B0-9132-449B-8E79-D4A5C213F73C}|Infraestructure\\rabbit.library.authors.infraestrucure\\rabbit.library.authors.infraestrucure.csproj|solutionrelative:infraestructure\\rabbit.library.authors.infraestrucure\\rabbit.library.authors.infraestrucure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D316E614-DAE8-4B7F-A7A9-2E6046C8DBF6}|Api\\rabbit.library.authors.api\\rabbit.library.authors.api.csproj|c:\\users\\giovany\\documents\\learning\\practices\\rabbit\\rabbit.library.authors.service\\src\\api\\rabbit.library.authors.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D316E614-DAE8-4B7F-A7A9-2E6046C8DBF6}|Api\\rabbit.library.authors.api\\rabbit.library.authors.api.csproj|solutionrelative:api\\rabbit.library.authors.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C2B9E6B0-9132-449B-8E79-D4A5C213F73C}|Infraestructure\\rabbit.library.authors.infraestrucure\\rabbit.library.authors.infraestrucure.csproj|c:\\users\\giovany\\documents\\learning\\practices\\rabbit\\rabbit.library.authors.service\\src\\infraestructure\\rabbit.library.authors.infraestrucure\\configurations\\authorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B9E6B0-9132-449B-8E79-D4A5C213F73C}|Infraestructure\\rabbit.library.authors.infraestrucure\\rabbit.library.authors.infraestrucure.csproj|solutionrelative:infraestructure\\rabbit.library.authors.infraestrucure\\configurations\\authorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9F6A81E7-7A02-4866-B707-0C43480AD0A0}|Core\\rabbit.library.authors.domain\\rabbit.library.authors.domain.csproj|c:\\users\\giovany\\documents\\learning\\practices\\rabbit\\rabbit.library.authors.service\\src\\core\\rabbit.library.authors.domain\\entities\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,24 +58,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 378,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Giovany\\Documents\\LEARNING\\PRACTICES\\rabbit\\rabbit.library.authors.service\\src\\Infraestructure\\rabbit.library.authors.infraestrucure\\AuthorDbContext\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Infraestructure\\rabbit.library.authors.infraestrucure\\AuthorDbContext\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\Giovany\\Documents\\LEARNING\\PRACTICES\\rabbit\\rabbit.library.authors.service\\src\\Infraestructure\\rabbit.library.authors.infraestrucure\\AuthorDbContext\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Infraestructure\\rabbit.library.authors.infraestrucure\\AuthorDbContext\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\Giovany\\Documents\\LEARNING\\PRACTICES\\rabbit\\rabbit.library.authors.service\\src\\Infraestructure\\rabbit.library.authors.infraestrucure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\rabbit.library.authors.infraestrucure\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\Giovany\\Documents\\LEARNING\\PRACTICES\\rabbit\\rabbit.library.authors.service\\src\\Infraestructure\\rabbit.library.authors.infraestrucure\\DependencyInjection.cs",
+              "RelativeToolTip": "Infraestructure\\rabbit.library.authors.infraestrucure\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T23:51:38.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthorConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Giovany\\Documents\\LEARNING\\PRACTICES\\rabbit\\rabbit.library.authors.service\\src\\Infraestructure\\rabbit.library.authors.infraestrucure\\Configurations\\AuthorConfiguration.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\rabbit.library.authors.infraestrucure\\Configurations\\AuthorConfiguration.cs",
+              "ToolTip": "C:\\Users\\Giovany\\Documents\\LEARNING\\PRACTICES\\rabbit\\rabbit.library.authors.service\\src\\Infraestructure\\rabbit.library.authors.infraestrucure\\Configurations\\AuthorConfiguration.cs",
+              "RelativeToolTip": "Infraestructure\\rabbit.library.authors.infraestrucure\\Configurations\\AuthorConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T23:50:40.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthorDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Giovany\\Documents\\LEARNING\\PRACTICES\\rabbit\\rabbit.library.authors.service\\src\\Infraestructure\\rabbit.library.authors.infraestrucure\\DbContext\\AuthorDbContext.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\rabbit.library.authors.infraestrucure\\DbContext\\AuthorDbContext.cs",
+              "ToolTip": "C:\\Users\\Giovany\\Documents\\LEARNING\\PRACTICES\\rabbit\\rabbit.library.authors.service\\src\\Infraestructure\\rabbit.library.authors.infraestrucure\\DbContext\\AuthorDbContext.cs",
+              "RelativeToolTip": "Infraestructure\\rabbit.library.authors.infraestrucure\\DbContext\\AuthorDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAQAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-26T21:48:08.04Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "rabbit.library.authors.infraestrucure",
               "DocumentMoniker": "C:\\Users\\Giovany\\Documents\\LEARNING\\PRACTICES\\rabbit\\rabbit.library.authors.service\\src\\Infraestructure\\rabbit.library.authors.infraestrucure\\rabbit.library.authors.infraestrucure.csproj",
               "RelativeDocumentMoniker": "Infraestructure\\rabbit.library.authors.infraestrucure\\rabbit.library.authors.infraestrucure.csproj",
@@ -80,13 +114,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Giovany\\Documents\\LEARNING\\PRACTICES\\rabbit\\rabbit.library.authors.service\\src\\Api\\rabbit.library.authors.api\\Program.cs",
               "RelativeDocumentMoniker": "Api\\rabbit.library.authors.api\\Program.cs",
               "ToolTip": "C:\\Users\\Giovany\\Documents\\LEARNING\\PRACTICES\\rabbit\\rabbit.library.authors.service\\src\\Api\\rabbit.library.authors.api\\Program.cs",
               "RelativeToolTip": "Api\\rabbit.library.authors.api\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-26T21:43:21.939Z",
               "EditorCaption": ""
@@ -101,7 +135,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "AuthorId.cs",
               "DocumentMoniker": "C:\\Users\\Giovany\\Documents\\LEARNING\\PRACTICES\\rabbit\\rabbit.library.authors.service\\src\\Core\\rabbit.library.authors.domain\\ValueObjects\\AuthorId.cs",
               "RelativeDocumentMoniker": "Core\\rabbit.library.authors.domain\\ValueObjects\\AuthorId.cs",
@@ -114,7 +148,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "IDomainEvent.cs",
               "DocumentMoniker": "C:\\Users\\Giovany\\Documents\\LEARNING\\PRACTICES\\rabbit\\rabbit.library.authors.service\\src\\Core\\rabbit.library.authors.domain\\Abstractions\\IDomainEvent.cs",
               "RelativeDocumentMoniker": "Core\\rabbit.library.authors.domain\\Abstractions\\IDomainEvent.cs",
@@ -127,7 +161,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "IAggregate.cs",
               "DocumentMoniker": "C:\\Users\\Giovany\\Documents\\LEARNING\\PRACTICES\\rabbit\\rabbit.library.authors.service\\src\\Core\\rabbit.library.authors.domain\\Abstractions\\IAggregate.cs",
               "RelativeDocumentMoniker": "Core\\rabbit.library.authors.domain\\Abstractions\\IAggregate.cs",
@@ -140,7 +174,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "IBaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\Giovany\\Documents\\LEARNING\\PRACTICES\\rabbit\\rabbit.library.authors.service\\src\\Core\\rabbit.library.authors.domain\\Abstractions\\IBaseEntity.cs",
               "RelativeDocumentMoniker": "Core\\rabbit.library.authors.domain\\Abstractions\\IBaseEntity.cs",
@@ -153,7 +187,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\Giovany\\Documents\\LEARNING\\PRACTICES\\rabbit\\rabbit.library.authors.service\\src\\Core\\rabbit.library.authors.domain\\Abstractions\\BaseEntity.cs",
               "RelativeDocumentMoniker": "Core\\rabbit.library.authors.domain\\Abstractions\\BaseEntity.cs",
@@ -166,7 +200,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Aggregate.cs",
               "DocumentMoniker": "C:\\Users\\Giovany\\Documents\\LEARNING\\PRACTICES\\rabbit\\rabbit.library.authors.service\\src\\Core\\rabbit.library.authors.domain\\Abstractions\\Aggregate.cs",
               "RelativeDocumentMoniker": "Core\\rabbit.library.authors.domain\\Abstractions\\Aggregate.cs",
@@ -179,7 +213,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Author.cs",
               "DocumentMoniker": "C:\\Users\\Giovany\\Documents\\LEARNING\\PRACTICES\\rabbit\\rabbit.library.authors.service\\src\\Core\\rabbit.library.authors.domain\\Entities\\Author.cs",
               "RelativeDocumentMoniker": "Core\\rabbit.library.authors.domain\\Entities\\Author.cs",
