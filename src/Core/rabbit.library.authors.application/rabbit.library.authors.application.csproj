@@ -7,6 +7,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="9.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\rabbit.library.authors.domain\rabbit.library.authors.domain.csproj" />
   </ItemGroup>
 
