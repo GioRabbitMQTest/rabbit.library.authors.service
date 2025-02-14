@@ -1,7 +1,7 @@
 ﻿using rabbit.library.authors.domain.Exceptions;
 
 namespace rabbit.library.authors.domain.ValueObjects;
-public class AuthorId
+public record AuthorId
 {
   public Guid Value { get; }
   private AuthorId(Guid value) => Value = value;

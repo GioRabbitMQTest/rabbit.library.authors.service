@@ -71,6 +71,82 @@ namespace rabbit.library.authors.infraestrucure.Persistence.Migrations
 
                     b.ToTable("Authors");
                 });
+
+            modelBuilder.Entity("rabbit.library.authors.domain.Models.AuthorBook", b =>
+                {
+                    b.Property<Guid>("AuthorId")
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<Guid>("BookId")
+                        .HasColumnType("uniqueidentifier");
+
+                    b.HasKey("AuthorId", "BookId");
+
+                    b.HasIndex("BookId");
+
+                    b.ToTable("AuthorBooks");
+                });
+
+            modelBuilder.Entity("rabbit.library.authors.domain.Models.Book", b =>
+                {
+                    b.Property<Guid>("Id")
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<DateTime?>("CreatedAt")
+                        .HasColumnType("datetime2");
+
+                    b.Property<string>("CreatedBy")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<DateTime?>("LastModified")
+                        .HasColumnType("datetime2");
+
+                    b.Property<string>("LastModifiedBy")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Synopsis")
+                        .IsRequired()
+                        .HasMaxLength(200)
+                        .HasColumnType("nvarchar(200)");
+
+                    b.Property<string>("Title")
+                        .IsRequired()
+                        .HasMaxLength(50)
+                        .HasColumnType("nvarchar(50)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Books");
+                });
+
+            modelBuilder.Entity("rabbit.library.authors.domain.Models.AuthorBook", b =>
+                {
+                    b.HasOne("rabbit.library.authors.domain.Models.Author", "Author")
+                        .WithMany("AuthorBooks")
+                        .HasForeignKey("AuthorId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("rabbit.library.authors.domain.Models.Book", "Book")
+                        .WithMany("AuthorBooks")
+                        .HasForeignKey("BookId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Author");
+
+                    b.Navigation("Book");
+                });
+
+            modelBuilder.Entity("rabbit.library.authors.domain.Models.Author", b =>
+                {
+                    b.Navigation("AuthorBooks");
+                });
+
+            modelBuilder.Entity("rabbit.library.authors.domain.Models.Book", b =>
+                {
+                    b.Navigation("AuthorBooks");
+                });
 #pragma warning restore 612, 618
         }
     }

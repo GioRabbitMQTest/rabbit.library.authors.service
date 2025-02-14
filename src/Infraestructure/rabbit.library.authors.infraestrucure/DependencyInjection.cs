@@ -16,6 +16,11 @@ public static class DependencyInjection
     services.AddDbContext<ApplicationDbContext>(optiosn =>
     {
       optiosn.UseSqlServer(configuration.GetConnectionString("Database"));
+      /*optiosn.UseMySql
+      (
+        configuration.GetConnectionString("Database"),
+        ServerVersion.AutoDetect(configuration.GetConnectionString("Database"))
+      );*/
     });
 
     services.AddScoped<IApplicationDbContext, ApplicationDbContext>();

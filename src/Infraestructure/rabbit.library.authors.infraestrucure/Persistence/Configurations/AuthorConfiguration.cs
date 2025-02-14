@@ -25,6 +25,12 @@ public class AuthorConfiguration : IEntityTypeConfiguration<Author>
       )
       .HasMaxLength(9);
 
+    builder.HasMany(p => p.AuthorBooks)
+      .WithOne(ab => ab.Author)
+      .HasForeignKey(ab => ab.AuthorId)
+      .OnDelete(DeleteBehavior.Cascade);
+      
+
     builder.ComplexProperty
     (
       x => x.AuthorName,
