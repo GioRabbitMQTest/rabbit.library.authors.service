@@ -10,7 +10,7 @@ public class AuthorName
     LastName = lastName;
   }
 
-  public static AuthorName? Create(string firstName, string lastName)
+  public static AuthorName? Of(string firstName, string lastName)
   {
     if (string.IsNullOrEmpty(firstName) || string.IsNullOrEmpty(lastName))
       return null;

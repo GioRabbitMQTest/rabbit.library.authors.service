@@ -7,11 +7,18 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="14.0.0" />
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="9.0.1" />
+    <PackageReference Include="rabbit.framework.messaging" Version="1.0.1" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\rabbit.library.authors.domain\rabbit.library.authors.domain.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Authors\Commonds\" />
+    <Folder Include="Authors\Queries\" />
   </ItemGroup>
 
 </Project>

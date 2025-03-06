@@ -13,7 +13,7 @@ using rabbit.library.authors.infraestrucure.Persistence;
 namespace rabbit.library.authors.infraestrucure.Persistence.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20250214034652_Initial")]
+    [Migration("20250304194759_Initial")]
     partial class Initial
     {
         /// <inheritdoc />
