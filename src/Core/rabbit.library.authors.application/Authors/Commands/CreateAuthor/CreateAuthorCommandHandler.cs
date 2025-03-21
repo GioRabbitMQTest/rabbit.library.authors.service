@@ -1,9 +1,9 @@
 ﻿using AutoMapper;
 using MassTransit;
 using rabbit.framework.CQRS;
+using rabbit.framework.messaging.Events;
 using rabbit.library.authors.application.Data;
 using rabbit.library.authors.application.DTOs;
-using rabbit.library.authors.application.Events;
 using rabbit.library.authors.domain.Models;
 using rabbit.library.authors.domain.ValueObjects;
 

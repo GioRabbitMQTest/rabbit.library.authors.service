@@ -1,6 +1,6 @@
 ﻿using AutoMapper;
+using rabbit.framework.messaging.Events;
 using rabbit.library.authors.application.DTOs;
-using rabbit.library.authors.application.Events;
 
 namespace rabbit.library.authors.application.MappingProfile;
 public class AuthorProfile : Profile
